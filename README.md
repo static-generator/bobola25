@@ -1,1 +1,12 @@
-# bobola25
+# Bobola
+## CN 25
+### *Colt Niklaus A. Mostar*
+> Sta. Lucia, Magarao
+---
+Social Media
+- [Facebook](https://www.example.com) 
+- [Instagram](https://www.example.com)
+- [Tiktok](https://www.example.com)
+
+BINI![image](https://github.com/user-attachments/assets/b116f868-fb3b-4433-aeff-1915d43bf559)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3O5P2ZDUwExzcIdZkJwFq1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
