@@ -12,4 +12,4 @@ BINI![image](https://github.com/user-attachments/assets/b116f868-fb3b-4433-aeff-
 
 FAVORITE SPORT![image](https://github.com/user-attachments/assets/76a44e4b-ed43-44e2-b6d7-1f652d511bb5)
 
-miss kona cn32 ng chabanel <33
+FAVORITE VIDEO GAME![image](https://github.com/user-attachments/assets/089c0c5c-68ab-4355-a2c1-aec00f788261)
