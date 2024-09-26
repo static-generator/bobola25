@@ -14,7 +14,6 @@ FAVORITE SPORT![image](https://github.com/user-attachments/assets/76a44e4b-ed43-
 
 FAVORITE VIDEO GAME
 
-
 ![image](https://github.com/user-attachments/assets/089c0c5c-68ab-4355-a2c1-aec00f788261)
 
 FAVORITE SONG <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5rDXfGMWI6S8wkXR0MHsvv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
