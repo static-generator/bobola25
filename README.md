@@ -18,6 +18,4 @@ Favorite Video Game
 
 Favorite Anime ![image](https://github.com/user-attachments/assets/7bc2db45-cf22-4df4-a72d-7207afbe5fbf)
 
-[Favorite Song](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5rDXfGMWI6S8wkXR0MHsvv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>)
-
 ## misskonasiya
