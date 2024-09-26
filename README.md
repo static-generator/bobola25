@@ -12,4 +12,3 @@ BINI![image](https://github.com/user-attachments/assets/b116f868-fb3b-4433-aeff-
 
 FAVORITE SPORT![image](https://github.com/user-attachments/assets/76a44e4b-ed43-44e2-b6d7-1f652d511bb5)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3O5P2ZDUwExzcIdZkJwFq1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
