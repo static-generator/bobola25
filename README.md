@@ -11,3 +11,5 @@ Social Media
 BINI![image](https://github.com/user-attachments/assets/b116f868-fb3b-4433-aeff-1915d43bf559)
 
 FAVORITE SPORT![image](https://github.com/user-attachments/assets/76a44e4b-ed43-44e2-b6d7-1f652d511bb5)
+
+miss kona cn32 ng chabanel <33
